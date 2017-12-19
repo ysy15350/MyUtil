@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyUtil</string>
+
+    <!-- 首页选项卡文本 -->
+    <string name="tab1name">首页</string>
+    <string name="tab2name">我的</string>
+
+
+    <string name="main_tab2_menu1">菜单1</string>
+    <string name="main_tab2_menu2">菜单2</string>
+    <string name="main_tab2_menu3">菜单3</string>
+    <string name="main_tab2_menu4">菜单4</string>
+    <string name="main_tab2_menu5">菜单5</string>
+    <string name="main_tab2_menu6">菜单6</string>
+
+</resources>
