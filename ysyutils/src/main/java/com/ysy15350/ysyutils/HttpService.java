@@ -7,6 +7,9 @@ import com.ysy15350.ysyutils.api.model.RequestOptions;
  * Created by yangshiyou on 2017/12/17.
  */
 
+/**
+ * 网络请求
+ */
 public interface HttpService {
 
     /**
